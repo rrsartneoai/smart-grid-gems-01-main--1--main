@@ -44,3 +44,19 @@ To start the development server, use the following command:
 
 ```bash
 bun run dev
+'''
+
+Contributing:
+After you've cloned the repository and activated your virtual environment please stick to the following flow:
+
+Create a new branch for your changes:
+
+git checkout -b feature-name
+Make your changes, then stage and commit them:
+
+git add .
+git commit -m "Description of changes"
+Push your branch to the remote repository:
+
+git push origin feature-name
+Create a Pull Request: Go to the GitHub repository, create a pull request from your branch, and after approval merge using squash and merge option.
