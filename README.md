@@ -44,10 +44,10 @@ To start the development server, use the following command:
 
 ```bash
 bun run dev
-'''
+```
 
 Contributing:
-After you've cloned the repository and activated your virtual environment please stick to the following flow:
+After you've cloned the repository, please stick to the following flow:
 
 Create a new branch for your changes:
 
